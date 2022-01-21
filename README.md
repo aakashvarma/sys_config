@@ -36,9 +36,9 @@ Plug 'honza/vim-snippets'
 call plug#end()
 ```
 
-Launch nvim, execute PlugInstall, update the plugins, and exit.
+Source the config file, execute PlugInstall, update the plugins, and exit.
 ```
-nvim
+%source %
 :PlugInstall
 :wq!
 ```
