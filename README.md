@@ -38,7 +38,7 @@ call plug#end()
 
 Source the config file, execute PlugInstall, update the plugins, and exit.
 ```
-%source %
+:source %
 :PlugInstall
 :wq!
 ```
