@@ -42,3 +42,8 @@ Source the config file, execute PlugInstall, update the plugins, and exit.
 :PlugInstall
 :wq!
 ```
+
+#### Plugins
+1. vim-easymotion
+   Source: https://github.com/easymotion/vim-easymotion
+   
