@@ -44,6 +44,5 @@ Source the config file, execute PlugInstall, update the plugins, and exit.
 ```
 
 #### Plugins
-1. vim-easymotion
-   Source: https://github.com/easymotion/vim-easymotion
+1. vim-easymotion https://github.com/easymotion/vim-easymotion
    
